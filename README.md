@@ -23,12 +23,12 @@ A full-stack To-Do List application built using **Ruby on Rails** for the backen
 
 ```plaintext
 my-rails-todo-app/
-├── backend/ (Rails API)
+├── todo-api/ (Rails API)
 │   ├── app/
 │   ├── config/
 │   ├── db/
 │   └── ...
-├── frontend/ (React with Vite)
+├── todo-app/ (React with Vite)
 │   ├── src/
 │   ├── public/
 │   └── ...
